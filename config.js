@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
-      host: "5.39.63.207",
-      port:  8262,
+      name: "Unknownz",
+      password: "unknownz",
+      host: "de1.bot-hosting.net",
+      port:  20773,
       secure: false
-    }
+     }
   ]
 }
